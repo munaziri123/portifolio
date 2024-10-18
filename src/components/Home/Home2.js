@@ -18,12 +18,12 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-             I'am Rwandan student in University of Science and Technological pole of Abdelhafid Ahdadden Sidi Abdellah, Ntional school of Artificial Intelligence
+             I'am Rwandan student in University of Scientific and Technological pole of Abdelhafid Ahdadden Sidi Abdellah, Ntional school of Artificial Intelligence
              
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Flutter, react js, Javascript and HTML&CSS. </b>
+                <b className="purple"> <h2>Flutter, react js, Javascript and HTML&CSS.</h2> </b>
               </i>
               <br />
               <br />
@@ -45,7 +45,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="purple">connect </span>with me on
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
