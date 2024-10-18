@@ -6,6 +6,7 @@ import carbon from "../../Assets/first_Project.PNG";
 import soft from "../../Assets/second_pro.PNG";
 import pharm_app from "../../Assets/pharma_users.png";
 import pharmacy from "../../Assets/personal_pro.PNG";
+import blankPage from "../../Assets/blank1.jpg";
 
 function Projects() {
   return (
@@ -52,6 +53,16 @@ function Projects() {
               isBlog={false}
               title="PharmaLinkAPP"
               description="This is Personal Mobile application related to PharmaLink where patients will be allowed to search recommended medicine and be able to have conversion with AI doctor, its quite big ongoing project of my Life, as an AI Engineer i need to develop a model that will hold data for diseases and medicine and other related informations"
+            />
+            
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+            
+              imgPath={blankPage}
+              isBlog={false}
+              title="Up Coming Projects"
+              description="This is indicate couple of project that is under development and can't be published due to contract terms, it will be published here once are launched by their owner!!"
             />
             
           </Col>

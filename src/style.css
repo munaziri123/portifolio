@@ -11,7 +11,7 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #c770f0;
+  --imp-text-color: #b9f070;
 }
 
 .purple {
@@ -402,7 +402,7 @@ button:focus {
 /* Footer */
 /* --------- */
 .footer {
-  background-color: rgb(10, 4, 22);
+  background-color: rgb(52, 9, 206);
   bottom: 0 !important;
   padding-top: 10px !important;
   padding-bottom: 8px !important ;

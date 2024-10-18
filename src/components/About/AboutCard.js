@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">MUNAZIRI Josue </span>
             from <span className="purple"> Kigali, Rwanda.</span>
             <br />
-            I am currently Student at <span className="purple"><h2>University of Science and Technological pole of Abdelhafid Ahdadden Sidi Abdellah, Ntional school of Artificial Intelligence</h2></span>.
+            I am currently Student at <span className="purple"><h2><a href="https://www.bing.com/images/search?q=university+of+scientific+and+technological+pole+abdelhafid%27ahadden+sidi+abdellah&qpvt=university+of+scientific+and+technological+pole+Abdelhafid+ahdadden+sidi+abdellah&form=IGRE&first=1">University of Science and Technological pole of Abdelhafid Ahdadden Sidi Abdellah, Ntional school of Artificial Intelligence</a></h2></span>.
             <br /> <br />
             I have completed Integrated Advanced Level in Mathematics, Computer Science and Modern Economics at GS Gihundwe.
             <br /> <br />
