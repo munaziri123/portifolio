@@ -353,8 +353,8 @@ button:focus {
 .home-social-icons {
   position: relative !important;
   display: inline-block !important;
-  width: 40px !important;
-  height: 40px !important;
+  width: 60px !important;
+  height: 60px !important;
   text-align: center !important;
   font-size: 1.2em !important;
   line-height: 2em !important;
@@ -395,7 +395,7 @@ button:focus {
 }
 
 .icon-colour {
-  color: #700c86 !important;
+  color: #3608db !important;
 }
 
 /* --------- */
@@ -560,7 +560,7 @@ button:focus {
   text-align: center !important;
   border-radius: 5px !important;
   display: table !important;
-  box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, 0.137) !important;
+  box-shadow: 4px 5px 4px 3px rgba(124, 168, 4, 0.137) !important;
   overflow: hidden !important;
   transition: all 0.4s ease 0s !important;
 }
