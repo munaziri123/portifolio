@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Flutter, react js and HTML&CSS. </b>
+                <b className="purple"> Flutter, react js, Javascript and HTML&CSS. </b>
               </i>
               <br />
               <br />
