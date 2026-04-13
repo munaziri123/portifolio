@@ -1,5 +1,5 @@
 import React from "react";
-import { BsPhone, BsLaptop, BsLightbulb, BsCpuFill, BsBraces, BsGraphUp } from "react-icons/bs";
+import { BsPhone, BsLaptop, BsCpuFill, BsBraces, BsGraphUp } from "react-icons/bs";
 
 function HelpSection() {
   const scrollToContact = () => {
@@ -13,7 +13,7 @@ function HelpSection() {
         {/* Section Heading */}
         <div className="section-brush-wrapper">
           <div className="section-brush-img"></div>
-          <h2 className="section-heading blue">What do i help ?</h2>
+          <h2 className="section-heading blue">What can i help ?</h2>
         </div>
 
         <div className="help-grid">
@@ -71,7 +71,7 @@ function HelpSection() {
                 <BsPhone color="white" />
               </div>
               <div>
-                <h3 className="service-title">Mobile app development</h3>
+                <h3 className="service-title">Mobile App Development</h3>
                 <p className="service-desc">
                   I build sleek, fast, and user-focused mobile apps using Flutter. From idea to
                   deployment, I bring your app to life on both iOS and Android with responsive
@@ -86,7 +86,7 @@ function HelpSection() {
                 <BsLaptop color="white" />
               </div>
               <div>
-                <h3 className="service-title">Web development</h3>
+                <h3 className="service-title">Web Development</h3>
                 <p className="service-desc">
                   I design and develop modern, responsive websites and web apps using React and
                   other latest tools — from landing pages to full-stack platforms with clean UI,
