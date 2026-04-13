@@ -1,8 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
 body {
   margin: 0;
-  font-family: "Raleway", serif !important;
+  font-family: 'Inter', sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(to left, rgb(42, 168, 120), rgb(66, 66, 94), rgb(15, 65, 85));
+  background-color: #F4F6FA;
+  color: #111827;
 }
